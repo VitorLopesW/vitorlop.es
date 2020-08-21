@@ -1,0 +1,20 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color:#1b1d1e;
+    font-size: 34px;
+}
+
+a{
+    color:#fff;
+}
+
+#wrapper{
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
+
+.links{
+    text-align:center;
+}
